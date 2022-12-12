@@ -32,6 +32,13 @@ CIFAR-100 dataset which has numerous images of all gender and age groups. The da
 
 # MLOPS Experimentation using Weights and Biases
 
+# Accuracy and Loss
+
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206950671-3c550929-b131-44fc-aac1-3fa0406cb406.png">
+The model completes with the validation accuracy of 80.89 % and test accuracy of 80.55 % which is better as compared to the basic CNN model built in prior step. 
+
+
+
 # Model Prediction Using Transfer Learning on EfficientNetB0 model
 
 The result for true and predicted image after model validation can be seen here -
