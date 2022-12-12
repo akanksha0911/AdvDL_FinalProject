@@ -47,6 +47,8 @@ The result for true and predicted image after model validation can be seen here 
 
 <img width="400" height="500" alt="image" src="https://user-images.githubusercontent.com/89233753/206950272-b9ad71e7-587a-4d0f-bacf-a0511a9aee97.png">
 
+### Using Streamlit
+
 ![image](https://user-images.githubusercontent.com/77387431/206968695-6fd648dd-3ef6-49e4-8142-106c8d553532.png)
 
 ![image](https://user-images.githubusercontent.com/77387431/206968772-93818c12-6515-4b04-9f96-e10c4adcfa53.png)
