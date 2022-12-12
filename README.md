@@ -34,6 +34,11 @@ CIFAR-100 dataset which has numerous images of all gender and age groups. The da
 
 # Model Prediction Using Transfer Learning on EfficientNetB0 model
 
+The result for true and predicted image after model validation can be seen here -
+
+<img width="400" height="500" alt="image" src="https://user-images.githubusercontent.com/89233753/206950272-b9ad71e7-587a-4d0f-bacf-a0511a9aee97.png">
+
+
 
 # Links
 #### Github Link: https://github.com/akanksha0911/AdvDL_FinalProject
