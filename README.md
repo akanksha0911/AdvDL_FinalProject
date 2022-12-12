@@ -22,7 +22,7 @@ The motivation behind working on this dataset using transfer learning is the cha
 
 # CIFAR-100 Dataset
 
-<img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206949216-924741c9-7f7e-4bb0-aa05-9954c4167d24.png">
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206949501-5d0e29bd-7b1d-4dab-b062-ad8cf33a4dff.png">
 
 CIFAR-100 dataset which has numerous images of all gender and age groups. The dataset has 100 classes but just 600 images in each class (500 for training and 100 for testing). The most interesting part of this dataset is the image quality. Each of the images in the dataset is of 32 × 32 pixels which makes recognition a challenging task for machines.
 
