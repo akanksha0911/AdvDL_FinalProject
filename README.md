@@ -56,7 +56,7 @@ The result for true and predicted image after model validation can be seen here 
 ---
 #### MLOps Link: 
 ---
-#### Presentation Slides Link : https://drive.google.com/drive/folders/1XDbUex2oCnqDX4PLjojTOAsLQxT9eAu6?usp=sharing
+#### Presentation Slides Link : https://docs.google.com/presentation/d/1oTOgroUCFDchAuXpOk2DwywzgVVRWMy5z4LyBKmL5z0/edit?usp=sharing
 ---
 #### Presentation Video Link: https://drive.google.com/drive/folders/1WhH1X2MJKQw_S4MOnh74HSUTF0OwCjd7?usp=sharing
 ---
