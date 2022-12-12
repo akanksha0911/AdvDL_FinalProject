@@ -56,7 +56,7 @@ The result for true and predicted image after model validation can be seen here 
 ----
 #### Heroku deployed Streamlit link: 
 ---
-#### MLOps Link: 
+#### MLOps Experimentation Link: https://wandb.ai/akanksha09/FinalProject_TL_IC?workspace=user-nishamdev
 ---
 #### Presentation Slides Link : https://docs.google.com/presentation/d/1oTOgroUCFDchAuXpOk2DwywzgVVRWMy5z4LyBKmL5z0/edit?usp=sharing
 ---
