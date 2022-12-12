@@ -20,6 +20,10 @@ Transfer learning and the idea of intelligently scaling the network (carefully b
 
 The motivation behind working on this dataset using transfer learning is the challenge of achieving a good accuracy score (more than 59 % as achieved using a 9-layer convolutional neural network built earlier). The dataset has 100 classes but just 600 images in each class (500 for training and 100 for testing). The most interesting part of this dataset is the image quality. Each of the image in the dataset is of 32 × 32 pixels which makes recognition a challenging task for machine. So in order to train the machine to correctly recognize and classify the images better than earlier, transfer learning approach has been used. However, the main limitation for building a deep neural network for CIFAR-100 with millions of parameters is memory. But, I felt that dealing with all these challenges would be a great learning and I decided to proceed with this dataset.
 
+# EfficientNetB0 Architecture
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206949064-d5ec72d8-ce55-4e6e-98f2-f9f7f24ffcc4.png">
+
+
 # MLOPS Experimentation using Weights and Biases
 
 # Deployment Architecture
