@@ -60,7 +60,7 @@ The result for true and predicted image after model validation can be seen here 
 ---
 #### Presentation Video Link: https://drive.google.com/drive/folders/1WhH1X2MJKQw_S4MOnh74HSUTF0OwCjd7?usp=sharing
 ---
-#### Project Report Link: https://drive.google.com/drive/folders/1uLuKMnzEgIs1YTGQQYJEc-QinP7NuFWr?usp=sharing
+#### Project Report Link: https://docs.google.com/document/d/1w742029Bo8WR4Wt6phQQ0hGevDQ_xig73Dv7DBJKIgo/edit?usp=sharing
 ---
 
 
