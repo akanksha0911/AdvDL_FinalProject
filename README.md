@@ -32,8 +32,6 @@ CIFAR-100 dataset which has numerous images of all gender and age groups. The da
 
 # MLOPS Experimentation using Weights and Biases
 
-# Deployment Architecture
-
 # Model Prediction Using Transfer Learning on EfficientNetB0 model
 
 
