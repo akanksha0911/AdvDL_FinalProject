@@ -73,7 +73,6 @@ The result for true and predicted image after model validation can be seen here 
 #### Project colab Link: https://colab.research.google.com/drive/1dnnV4oSz_EoH_4q3O-kyD9EnVHcFQqQX?authuser=1#scrollTo=BEFrM-eMWaGo
 
 
-
 Referenes :
 <ul>
 <li>https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4</li>
