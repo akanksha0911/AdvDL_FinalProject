@@ -34,6 +34,12 @@ CIFAR-100 dataset which has numerous images of all gender and age groups. The da
 
 # MLOPS Experimentation using Weights and Biases
 
+W&B is a platform for enabling a collaborative MLOps culture.
+Designed to support and automate key steps in the MLOps life cycle - experiment tracking, dataset versioning and model management.
+
+<img width="1101" alt="image" src="https://user-images.githubusercontent.com/89233753/206991106-00dac64e-67db-4afd-b2d6-76d934e5b3a9.png">
+
+
 # Accuracy and Loss
 
 <img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206950671-3c550929-b131-44fc-aac1-3fa0406cb406.png">
