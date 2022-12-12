@@ -65,8 +65,6 @@ The result for true and predicted image after model validation can be seen here 
 #### Github Link: https://github.com/akanksha0911/AdvDL_FinalProject
 ----
 #### Data set Link: https://drive.google.com/drive/folders/1D_78eEMNs_gbuhOGd-fji29bTLd5zzp7?usp=sharing
-----
-#### Heroku deployed Streamlit link: 
 ---
 #### MLOps Experimentation Link: https://wandb.ai/akanksha09/FinalProject_TL_IC?workspace=user-nishamdev
 ---
