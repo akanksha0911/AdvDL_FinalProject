@@ -1,7 +1,7 @@
 # Final Project
 ## Title - Object Classification/Recognition using Using CNN Networks and Transfer-learning with EfficientNet-B0 
 
-## Team Members:
+## Team Members:-
 <ul>
 <li>Akanksha Rawat</li>
 <li>Karishma Kuria</li>
@@ -16,11 +16,11 @@ The network built in this project uses the state-of-the-art EfficientNet-B0 whic
 
 Transfer learning and the idea of intelligently scaling the network (carefully balancing the network's width, depth and resolution) helped in getting a good performance on this dataset. By just training the model for 15 epochs, the model managed to achieve an accuracy of 82 percent. This is definitely a much better performance than the one achieved using a 9-layer convolutional neural network model trained for 100 epochs. The training of the model has been done on a GPU and the model has also been tested on some new random images to visualize the top 5 category predictions along with their probabilities.
 
-# Motivation:
+# Motivation
 
 The motivation behind working on this dataset using transfer learning is the challenge of achieving a good accuracy score (more than 59 % as achieved using a 9-layer convolutional neural network built earlier). The dataset has 100 classes but just 600 images in each class (500 for training and 100 for testing). The most interesting part of this dataset is the image quality. Each of the image in the dataset is of 32 × 32 pixels which makes recognition a challenging task for machine. So in order to train the machine to correctly recognize and classify the images better than earlier, transfer learning approach has been used. However, the main limitation for building a deep neural network for CIFAR-100 with millions of parameters is memory. But, I felt that dealing with all these challenges would be a great learning and I decided to proceed with this dataset.
 
-# MLOPS Experimentation using Weights and Biases.
+# MLOPS Experimentation using Weights and Biases
 
 # Deployment Architecture
 
