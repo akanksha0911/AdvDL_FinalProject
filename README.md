@@ -89,7 +89,7 @@ The result for true and predicted image after model validation can be seen here 
 <ol>
 
 
-Referenes :
+# Referenes :
 <ul>
 <li>https://towardsdatascience.com/using-convolutional-neural-network-for-image-classification-5997bfd0ede4</li>
 <li>https://www.irjet.net/archives/V7/i11/IRJET-V7I11204.pdf</li>
