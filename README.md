@@ -74,6 +74,8 @@ The result for true and predicted image after model validation can be seen here 
 ---
 #### Project Report Link: https://docs.google.com/document/d/1w742029Bo8WR4Wt6phQQ0hGevDQ_xig73Dv7DBJKIgo/edit?usp=sharing
 ---
+#### Project Report Pdf Link: https://drive.google.com/drive/folders/1mx1pN57WYwSqMHK6Nte0a6P0dsgpC9m9?usp=share_link
+---
 #### Project colab Link: https://colab.research.google.com/drive/1dnnV4oSz_EoH_4q3O-kyD9EnVHcFQqQX?authuser=1#scrollTo=BEFrM-eMWaGo
 ---
 ### Team Contribution:
