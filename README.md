@@ -81,6 +81,12 @@ The result for true and predicted image after model validation can be seen here 
 ### Team Contribution:
 <img width="1093" alt="image" src="https://user-images.githubusercontent.com/77387431/207209271-4336f215-5bfa-4726-8463-d338182072e5.png">
 
+# Steps to run the project
+<ol>
+<li>Open Google Colab</li>
+<li>Run the colab as it is from the beginning till the end</li>
+<li>The Colab has integration with Weights and Biases for MLOPS. Please note before running the colab once should have an account in W&B to reflect the metric charts in the dashbiard for excperimentation</li>
+<ol>
 
 
 Referenes :
