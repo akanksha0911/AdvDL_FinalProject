@@ -83,9 +83,12 @@ The result for true and predicted image after model validation can be seen here 
 
 # Steps to run the project
 <ol>
-<li>Open Google Colab</li>
-<li>Run the colab as it is from the beginning till the end</li>
-<li>The Colab has integration with Weights and Biases for MLOPS. Please note before running the colab once should have an account in W&B to reflect the metric charts in the dashbiard for excperimentation</li>
+<li>Open Google Colab and select runtime type as GPU.</li>
+<li>Run the colab as it is from the beginning till the end.</li>
+<li>The Colab has integration with Weights and Biases for MLOPS for organizing and analyzing  deep learning experiments. It also saves the model’s hyperparameters and output metrics and gives us all visual charts like for training, comparison of model, accuracy, etc.
+  
+  Please note - Before running the colab once should have an account in W&B to reflect the metric charts in the dashbiard for excperimentation</li>
+  <li>All the model artifacts are stored in wandb artifacts registry</li>
 <ol>
 
 
