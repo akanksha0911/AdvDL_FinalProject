@@ -31,6 +31,8 @@ CIFAR-100 dataset which has numerous images of all gender and age groups. The da
 # EfficientNetB0 Architecture
 <img width="1002" alt="image" src="https://user-images.githubusercontent.com/89233753/206949064-d5ec72d8-ce55-4e6e-98f2-f9f7f24ffcc4.png">
 
+*Image Source - TowardsDataScience (link - https://towardsdatascience.com/complete-architectural-details-of-all-efficientnet-models-5fd5b736142)*
+
 
 # MLOPS Experimentation using Weights and Biases
 
